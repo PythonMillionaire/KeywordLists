@@ -3,10 +3,12 @@ address
 ask
 better price
 broken
+buy
 bye
 contact
 countries
 credit
+customized
 damage
 damaged
 day
@@ -14,6 +16,7 @@ days
 dear
 delivey
 discount
+display
 dissatisfied
 dm
 expensive
@@ -42,11 +45,13 @@ russian
 satisfied
 sometimes
 thank
+thanks
 us
 want
 warm
 we
 we will
+weeks
 welcome
 wholesale
 working
