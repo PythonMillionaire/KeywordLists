@@ -2,6 +2,7 @@ about
 address
 ask
 better price
+broken
 bye
 contact
 countries
@@ -10,6 +11,8 @@ damage
 damaged
 day
 days
+dear
+delivey
 discount
 dissatisfied
 dm
@@ -17,6 +20,7 @@ expensive
 extra
 faq
 feedback
+friend
 greeting
 hello
 hey
@@ -24,9 +28,11 @@ hi
 mail
 marketplace
 message
+off
 offer
 order
 our
+photo
 post
 question
 receive
@@ -34,11 +40,15 @@ reply
 retail
 russian
 satisfied
+sometimes
 thank
 us
+want
 warm
 we
 we will
 welcome
 wholesale
+working
+worldwide
 you
