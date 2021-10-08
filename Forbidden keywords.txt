@@ -3,6 +3,7 @@
 .co.uk
 .com
 about us
+air mail
 ali
 ali express
 aliexpress
@@ -31,6 +32,8 @@ contact us
 contact with us
 cook islands
 correct address
+correio
+correo
 cost
 costs
 country
@@ -127,6 +130,7 @@ singapore
 slovenia
 solomon islands
 spain
+spsr
 stock
 store
 sweden
