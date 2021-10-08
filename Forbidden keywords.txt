@@ -2,6 +2,7 @@
 .cn
 .co.uk
 .com
+about
 about us
 adminaccountid
 ai
@@ -16,6 +17,7 @@ andorra
 australia
 austria
 bags
+been
 belgium
 bonus
 brasil
@@ -23,6 +25,7 @@ brazil
 brazilian
 brunei
 business day
+buy
 buy now
 buyer protection
 caledonia
@@ -34,6 +37,7 @@ ckeditor
 click here
 click on
 co.
+communicate
 company
 contact me
 contact us
@@ -50,10 +54,13 @@ credit card
 customs
 cyprus
 czech republic
+dear
 debit card
 deliver
 denmark
 dhl
+discount
+display
 drop shipping
 dropshiping
 dropshipping
@@ -63,8 +70,10 @@ ems
 escrow
 estonia
 export
+extra
 fedex
 fee
+feedback
 fiji islands
 finland
 france
@@ -121,8 +130,10 @@ now
 null
 off code
 online service
+order
 order amount
 ordinary
+our
 our shop
 papua
 pattern
@@ -166,6 +177,7 @@ taiwan
 tariff
 tax
 thailand
+thanks
 tonga
 tracking
 transit time
@@ -179,12 +191,17 @@ vanuatu
 vietnam
 visa
 warranty
+we
+welcome
+welcomed
 west union
 western union
 what should i do
 when can order
 when can the order
+wholesale
 wholesaler
 workday
+working
 www
 zip code
