@@ -5,6 +5,7 @@ better price
 broken
 buy
 bye
+communicate
 contact
 countries
 credit
@@ -53,6 +54,7 @@ we
 we will
 weeks
 welcome
+welcomed
 wholesale
 working
 worldwide
