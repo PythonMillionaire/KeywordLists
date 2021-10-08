@@ -2,8 +2,10 @@
 .cn
 .co.uk
 .com
+about
 about us
 adminaccountid
+ai
 air mail
 ali
 ali express
@@ -14,6 +16,7 @@ american samoa
 andorra
 australia
 austria
+bags
 been
 belgium
 bonus
@@ -108,6 +111,7 @@ korea
 laos
 latvia
 liechtenstein
+logo
 ltd.
 luxembourg
 macau
@@ -125,15 +129,19 @@ norway
 now
 null
 off code
+online service
+order
 order amount
 ordinary
 our
 our shop
 papua
+pattern
 payment
 payment method
 paypal
 philipines
+pic
 pieces
 poland
 portugal
@@ -154,6 +162,7 @@ seller
 shipment
 shipping
 singapore
+size
 slovenia
 solomon islands
 spain
@@ -171,6 +180,7 @@ thailand
 thanks
 tonga
 tracking
+transit time
 tuvalu
 united kingdom
 united states
@@ -184,6 +194,7 @@ warranty
 we
 welcome
 welcomed
+west union
 western union
 what should i do
 when can order
@@ -193,3 +204,4 @@ wholesaler
 workday
 working
 www
+zip code
