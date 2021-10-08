@@ -21,10 +21,12 @@ greeting
 hello
 hey
 hi
+mail
 message
 offer
 order
 our
+post
 question
 receive
 reply
