@@ -15,6 +15,7 @@ american samoa
 andorra
 australia
 austria
+bags
 belgium
 bonus
 brasil
@@ -70,6 +71,7 @@ finland
 france
 free
 freight
+friends
 full tracking
 future
 germany
@@ -150,6 +152,7 @@ seller
 shipment
 shipping
 singapore
+size
 slovenia
 solomon islands
 spain
@@ -188,6 +191,3 @@ wholesaler
 workday
 www
 zip code
-bags
-friends
-size
