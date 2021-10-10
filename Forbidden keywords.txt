@@ -96,6 +96,7 @@ indonesia
 international
 invoice
 ireland
+it
 italy
 japan
 kiribati
@@ -138,6 +139,7 @@ portugal
 priority
 priority shipping
 promotion
+provides
 refund
 reply to you
 reply you
