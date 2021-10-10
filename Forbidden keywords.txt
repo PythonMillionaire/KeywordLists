@@ -43,7 +43,6 @@ cook islands
 correct address
 correio
 correo
-cost
 costs
 country
 coupon
@@ -125,7 +124,6 @@ order amount
 ordinary
 our shop
 papua
-pattern
 payment
 payment method
 paypal
