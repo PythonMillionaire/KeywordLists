@@ -96,7 +96,6 @@ indonesia
 international
 invoice
 ireland
-it
 italy
 japan
 kiribati
@@ -154,7 +153,6 @@ seller
 shipment
 shipping
 singapore
-size
 slovenia
 solomon islands
 spain
@@ -193,3 +191,5 @@ wholesaler
 workday
 www
 zip code
+it
+size
