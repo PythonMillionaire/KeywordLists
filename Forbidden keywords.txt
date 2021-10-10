@@ -96,7 +96,6 @@ indonesia
 international
 invoice
 ireland
-it
 italy
 japan
 kiribati
@@ -139,7 +138,6 @@ portugal
 priority
 priority shipping
 promotion
-provides
 refund
 reply to you
 reply you
@@ -154,7 +152,6 @@ seller
 shipment
 shipping
 singapore
-size
 slovenia
 solomon islands
 spain
@@ -193,3 +190,6 @@ wholesaler
 workday
 www
 zip code
+it
+provides
+size
