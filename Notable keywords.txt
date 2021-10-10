@@ -7,6 +7,7 @@ buy
 bye
 communicate
 contact
+cost
 countries
 credit
 customized
