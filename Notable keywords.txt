@@ -7,7 +7,6 @@ buy
 bye
 communicate
 contact
-cost
 countries
 credit
 customized
@@ -26,7 +25,6 @@ extra
 faq
 feedback
 friend
-friends
 greeting
 hello
 hey
@@ -34,7 +32,6 @@ hi
 mail
 marketplace
 message
-now
 off
 offer
 order
@@ -62,4 +59,7 @@ wholesale
 working
 worldwide
 you
+cost
+friends
+now
 you can
