@@ -21,6 +21,7 @@ andorra
 asap
 australia
 austria
+bags
 belgium
 bonus
 brasil
@@ -42,6 +43,7 @@ click on
 click the
 co.
 company
+confirm your
 contact me
 contact us
 contact with us
@@ -116,6 +118,7 @@ invoice
 ireland
 italy
 japan
+kgs
 kiribati
 korea
 laos
@@ -138,12 +141,14 @@ new zealand
 news
 norway
 notify me
+now
 null
 off code
 online service
 order amount
 order enough
 order value
+ordinary
 other countries
 our shop
 papua
@@ -152,11 +157,13 @@ payment method
 paypal
 philipines
 pic
+pieces
 please click
 poland
 portugal
 positive feedback
 postal
+priority
 priority shipping
 promotion
 refund
@@ -201,6 +208,7 @@ transit time
 tuvalu
 united kingdom
 united states
+ups
 urgent
 usa
 vanuatu
@@ -222,10 +230,3 @@ www
 your order
 your purchase
 zip code
-bags
-confirm your
-now
-ordinary
-pieces
-priority
-ups
