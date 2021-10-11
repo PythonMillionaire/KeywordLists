@@ -2,8 +2,13 @@
 .cn
 .co.uk
 .com
+5-star
+about orders
 about us
+address issues
 adminaccountid
+after service
+after-sale
 ai
 air mail
 ali
@@ -13,15 +18,16 @@ aliexpress
 alipay
 american samoa
 andorra
+asap
 australia
 austria
-bags
 belgium
 bonus
 brasil
 brazil
 brazilian
 brunei
+bundle deals
 business day
 buy now
 buyer protection
@@ -33,9 +39,9 @@ chinese
 ckeditor
 click here
 click on
+click the
 co.
 company
-confirm your
 contact me
 contact us
 contact with us
@@ -43,18 +49,25 @@ cook islands
 correct address
 correio
 correo
+cost
 costs
 country
 coupon
 credit card
+customer service
 customs
 cyprus
 czech republic
+dear buyer
+dear friend
 debit card
 deliver
 denmark
 dhl
+discount
+dispatch time
 drop shipping
+dropship
 dropshiping
 dropshipping
 east timor
@@ -62,11 +75,15 @@ email
 ems
 escrow
 estonia
+exchange
 export
+fast ship
 fedex
 fee
+feedback
 fiji islands
 finland
+follow us
 france
 free
 freight
@@ -74,6 +91,7 @@ full tracking
 future
 germany
 gibraltar
+give us
 giving
 greece
 greenland
@@ -81,6 +99,8 @@ guam
 guarantee
 guemsey
 hongkong
+hot sale
+hot selling
 http
 http:
 https
@@ -111,17 +131,20 @@ modname
 monaco
 money
 money back
+my shop
 netherlands
 new guinea
 new zealand
 news
 norway
-now
+notify me
 null
 off code
 online service
 order amount
-ordinary
+order enough
+order value
+other countries
 our shop
 papua
 payment
@@ -129,10 +152,11 @@ payment method
 paypal
 philipines
 pic
-pieces
+please click
 poland
 portugal
-priority
+positive feedback
+postal
 priority shipping
 promotion
 refund
@@ -145,12 +169,18 @@ return
 russia
 saipan
 samoa
+sell point
 seller
+send us
+services
 shipment
 shipping
+shippment
+shopping cart
 singapore
 slovenia
 solomon islands
+some countries
 spain
 spsr
 stock
@@ -163,13 +193,14 @@ taiwan
 tariff
 tax
 thailand
+thanks for 
 tonga
+track my
 tracking
 transit time
 tuvalu
 united kingdom
 united states
-ups
 urgent
 usa
 vanuatu
@@ -178,12 +209,23 @@ visa
 warranty
 we ship
 we will
+website
 west union
 western union
 what should i do
 when can order
 when can the order
+wholesale
 wholesaler
 workday
 www
+your order
+your purchase
 zip code
+bags
+confirm your
+now
+ordinary
+pieces
+priority
+ups
