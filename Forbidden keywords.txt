@@ -2,13 +2,8 @@
 .cn
 .co.uk
 .com
-5-star
-about orders
 about us
-address issues
 adminaccountid
-after service
-after-sale
 ai
 air mail
 ali
@@ -18,7 +13,6 @@ aliexpress
 alipay
 american samoa
 andorra
-asap
 australia
 austria
 bags
@@ -28,7 +22,6 @@ brasil
 brazil
 brazilian
 brunei
-bundle deals
 business day
 buy now
 buyer protection
@@ -40,7 +33,6 @@ chinese
 ckeditor
 click here
 click on
-click the
 co.
 company
 confirm your
@@ -51,25 +43,18 @@ cook islands
 correct address
 correio
 correo
-cost
 costs
 country
 coupon
 credit card
-customer service
 customs
 cyprus
 czech republic
-dear buyer
-dear friend
 debit card
 deliver
 denmark
 dhl
-discount
-dispatch time
 drop shipping
-dropship
 dropshiping
 dropshipping
 east timor
@@ -77,15 +62,11 @@ email
 ems
 escrow
 estonia
-exchange
 export
-fast ship
 fedex
 fee
-feedback
 fiji islands
 finland
-follow us
 france
 free
 freight
@@ -93,7 +74,6 @@ full tracking
 future
 germany
 gibraltar
-give us
 giving
 greece
 greenland
@@ -101,8 +81,6 @@ guam
 guarantee
 guemsey
 hongkong
-hot sale
-hot selling
 http
 http:
 https
@@ -118,7 +96,6 @@ invoice
 ireland
 italy
 japan
-kgs
 kiribati
 korea
 laos
@@ -134,22 +111,17 @@ modname
 monaco
 money
 money back
-my shop
 netherlands
 new guinea
 new zealand
 news
 norway
-notify me
 now
 null
 off code
 online service
 order amount
-order enough
-order value
 ordinary
-other countries
 our shop
 papua
 payment
@@ -158,11 +130,8 @@ paypal
 philipines
 pic
 pieces
-please click
 poland
 portugal
-positive feedback
-postal
 priority
 priority shipping
 promotion
@@ -176,18 +145,12 @@ return
 russia
 saipan
 samoa
-sell point
 seller
-send us
-services
 shipment
 shipping
-shippment
-shopping cart
 singapore
 slovenia
 solomon islands
-some countries
 spain
 spsr
 stock
@@ -200,9 +163,7 @@ taiwan
 tariff
 tax
 thailand
-thanks for 
 tonga
-track my
 tracking
 transit time
 tuvalu
@@ -217,16 +178,55 @@ visa
 warranty
 we ship
 we will
-website
 west union
 western union
 what should i do
 when can order
 when can the order
-wholesale
 wholesaler
 workday
 www
+zip code
+5-star
+about orders
+address issues
+after service
+after-sale
+asap
+bundle deals
+click the
+cost
+customer service
+dear buyer
+dear friend
+discount
+dispatch time
+dropship
+exchange
+fast ship
+feedback
+follow us
+give us
+hot sale
+hot selling
+kgs
+my shop
+notify me
+order enough
+order value
+other countries
+please click
+positive feedback
+postal
+sell point
+send us
+services
+shippment
+shopping cart
+some countries
+thanks for 
+track my
+website
+wholesale
 your order
 your purchase
-zip code
