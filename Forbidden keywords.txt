@@ -21,7 +21,6 @@ andorra
 asap
 australia
 austria
-bags
 belgium
 bonus
 brasil
@@ -62,6 +61,7 @@ cyprus
 czech republic
 dear buyer
 dear friend
+dear friends
 debit card
 deliver
 denmark
@@ -88,13 +88,13 @@ finland
 follow us
 france
 free
+freeback
 freight
 full tracking
 future
 germany
 gibraltar
 give us
-giving
 greece
 greenland
 guam
@@ -124,7 +124,6 @@ korea
 laos
 latvia
 liechtenstein
-logo
 ltd.
 luxembourg
 macau
@@ -148,7 +147,6 @@ online service
 order amount
 order enough
 order value
-ordinary
 other countries
 our shop
 papua
@@ -157,7 +155,6 @@ payment method
 paypal
 philipines
 pic
-pieces
 please click
 poland
 portugal
@@ -192,7 +189,6 @@ spain
 spsr
 stock
 store
-story
 sweden
 switzerland
 tahiti
@@ -229,4 +225,11 @@ workday
 www
 your order
 your purchase
+your support
 zip code
+bags
+giving
+logo
+ordinary
+pieces
+story
