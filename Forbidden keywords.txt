@@ -24,6 +24,7 @@ andorra
 asap
 australia
 austria
+bags
 belgium
 bonus
 brasil
@@ -246,4 +247,3 @@ your order
 your purchase
 your support
 zip code
-bags
