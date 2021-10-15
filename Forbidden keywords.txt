@@ -1,11 +1,8 @@
-$
-%
 % off
 .cn
 .co.uk
 .com
 5-star
-7 days
 about orders
 about us
 address issues
@@ -34,7 +31,6 @@ brunei
 bundle deals
 business day
 buy now
-buyer notice
 buyer protection
 caledonia
 cambodia
@@ -66,7 +62,6 @@ cyprus
 czech republic
 dear buyer
 dear friend
-dear friends
 debit card
 deliver
 denmark
@@ -90,13 +85,10 @@ fee
 feedback
 fiji islands
 finland
-five stars
 follow us
 france
 free
-freeback
 freight
-full name
 full tracking
 future
 germany
@@ -164,7 +156,6 @@ payment
 payment method
 paypal
 philipines
-photos list
 pic
 pieces
 please click
@@ -174,8 +165,6 @@ positive feedback
 postal
 priority
 priority shipping
-product video
-promo code
 promotion
 refund
 reply to you
@@ -192,7 +181,6 @@ seller
 send us
 services
 shipment
-shipped from
 shipping
 shippment
 shopping cart
@@ -212,7 +200,6 @@ taiwan
 tariff
 tax
 thailand
-thanks for
 thanks for 
 tonga
 track my
@@ -239,11 +226,24 @@ when can the order
 wholesale
 wholesaler
 workday
-working days
 www
-xlmodel
-you ship
 your order
 your purchase
-your support
 zip code
+$
+%
+7 days
+buyer notice
+dear friends
+five stars
+freeback
+full name
+photos list
+product video
+promo code
+shipped from
+thanks for
+working days
+xlmodel
+you ship
+your support
