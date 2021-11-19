@@ -1,16 +1,3 @@
-usd
-my order
-recommend
-fawnmum
-leeseph
-also viewed
-mercado pago
-boleto
-giropay
-carte bancaire
-carte blue
-sofort
-banking
 % off
 .cn
 .co.uk
@@ -34,6 +21,7 @@ andorra
 asap
 australia
 austria
+bags
 belgium
 bonus
 brasil
@@ -54,6 +42,7 @@ click here
 click on
 click the
 co.
+company
 confirm your
 contact me
 contact us
@@ -101,9 +90,11 @@ france
 free
 freight
 full tracking
+future
 germany
 gibraltar
 give us
+giving
 greece
 greenland
 guam
@@ -118,9 +109,11 @@ https
 hungary
 hunthouse
 iceland
+import
 inc.
 india
 indonesia
+international
 invoice
 ireland
 italy
@@ -139,6 +132,7 @@ malaysia
 mastercard
 modname
 monaco
+money
 money back
 my shop
 netherlands
@@ -147,12 +141,14 @@ new zealand
 news
 norway
 notify me
+now
 null
 off code
 online service
 order amount
 order enough
 order value
+ordinary
 other countries
 our shop
 papua
@@ -161,6 +157,7 @@ payment method
 paypal
 philipines
 pic
+pieces
 please click
 poland
 portugal
@@ -250,3 +247,16 @@ working days
 xlmodel
 you ship
 your support
+usd
+my order
+recommend
+fawnmum
+leeseph
+also viewed
+mercado pago
+boleto
+giropay
+carte bancaire
+carte blue
+sofort
+banking
