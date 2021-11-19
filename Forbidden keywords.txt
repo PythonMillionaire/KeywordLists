@@ -1,3 +1,6 @@
+recommend
+my order
+usd
 % off
 .cn
 .co.uk
@@ -42,7 +45,6 @@ click here
 click on
 click the
 co.
-company
 confirm your
 contact me
 contact us
@@ -90,11 +92,9 @@ france
 free
 freight
 full tracking
-future
 germany
 gibraltar
 give us
-giving
 greece
 greenland
 guam
@@ -113,7 +113,6 @@ import
 inc.
 india
 indonesia
-international
 invoice
 ireland
 italy
@@ -148,7 +147,6 @@ online service
 order amount
 order enough
 order value
-ordinary
 other countries
 our shop
 papua
@@ -157,7 +155,6 @@ payment method
 paypal
 philipines
 pic
-pieces
 please click
 poland
 portugal
@@ -247,3 +244,9 @@ working days
 xlmodel
 you ship
 your support
+company
+future
+giving
+international
+ordinary
+pieces
