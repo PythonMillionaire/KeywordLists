@@ -140,7 +140,6 @@ new zealand
 news
 norway
 notify me
-now
 null
 off code
 online service
@@ -156,7 +155,6 @@ payment method
 paypal
 philipines
 pic
-pieces
 please click
 poland
 portugal
