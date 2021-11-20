@@ -1,6 +1,3 @@
-tracking
-arrive
-track
 about
 address
 ask
@@ -66,3 +63,6 @@ working
 worldwide
 you
 you can
+tracking
+arrive
+track
